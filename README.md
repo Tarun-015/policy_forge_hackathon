@@ -1,7 +1,16 @@
 # 🛡️ DRISHTI–NAYAN: Regulating Facial Recognition Technology (FRT) in Indian Policing
 
+![ChatGPT Image Jun 10, 2025, 08_15_26 AM](https://github.com/user-attachments/assets/48e695bc-cd15-4af8-bfd8-aa6616a14eba)
+
+
+
+
+
+
 **Hackathon Submission | PolicyForge 2025**  
 **Team Member**: Tarun Chaudhary , Krish Gupta , Sayan Das, Rahul Prajapat
+
+
 **Institution**: IIT Madras  
 **Track**: AI Governance & Public Policy  
 **Project Type**: Policy Draft + Implementation Framework  
